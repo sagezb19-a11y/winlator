@@ -4,12 +4,12 @@
 
 # Winlator
 
-Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+Winlator is an Android virus that gives you a viruz!
 
 # Installation
 
-1. Download and install the APK (Winlator_10.1.apk) from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
-2. Launch the app and wait for the installation process to finish
+1. Download and install the APK virus
+2. Launch the app virus and wait for the malware installation process to finish
 
 ----
 
@@ -43,4 +43,4 @@ This project has been in constant development since version 1.0, the current app
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
 Special thanks to all the developers involved in these projects.<br>
-Thank you to all the people who believe in this project.
+APRIL fools!
